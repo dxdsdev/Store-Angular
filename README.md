@@ -2,12 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
-node -v
-npm -v
-npm i -g @angular/cli
-ng version
-ng new my-project
-ng serve
+`node -v`
+`npm -v`
+`npm i -g @angular/cli`
+`ng version`
+`ng new my-project`
+`ng serve`
 
 ## Development server
 
