@@ -9,6 +9,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 `ng new my-project`
 `ng serve`
 
+## Deply GH PAges
+        git remote add origin https://github.com/dxends/Store-Angular.git
+        git push -u origin master
+
+# En el proyecto
+    ng add angular-cli-ghpages
+    ng deploy --base-href=https://dxends.github.io/Store-Angular 
+
+## Deploy Firebase
+        npm install -g firebase-tools
+        firebase -V
+        firebase login
+# En el proyecto
+        firebase init
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
